@@ -1,0 +1,18 @@
+.container{
+display: flex;
+align-items: flex-start;
+}
+
+.texto{
+width: 95%;
+padding-right: 30px;
+}
+
+.galeria-imagens{
+width: 35%;
+}
+
+.galeria-imagens img{
+width: 100%;
+margin-bottom: 50px;
+}
